@@ -12,7 +12,14 @@ public class Tests
     {
        
     }
-    
+
+    //[TearDown] runs after test.. but in scenarios with Inherited classes!//
+    //https://docs.nunit.org/articles/nunit/writing-tests/setup-teardown/index.html
+
+
+
+
+
 
     [Test]
     public void AddTwoNumbers()
