@@ -2,5 +2,5 @@
 
 
 ## Red Green Refactor
-[](./RedGreenRefactor.png)
+![](./RedGreenRefactor.png)
 
