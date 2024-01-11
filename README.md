@@ -2,5 +2,5 @@
 
 
 ## Red Green Refactor
-[alt text](RedGreenRefactor.png "Title")
+[](./RedGreenRefactor.png)
 
